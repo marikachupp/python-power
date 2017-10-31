@@ -25,14 +25,18 @@ def fibonacci(x):
     if x == 1:
         return f1(x)
     if x > 1:
-        return fibonacci(x-1) + fibonacci(x-2)
+        return fibonacci(x - 1) + fibonacci(x - 2)
+    else:
+        return None
 
 
 print fibonacci(0) == 0
 print fibonacci(1) == 1
 print fibonacci(2) == 1
-
 print fibonacci(3) == 2
 print fibonacci(4) == 3
 print fibonacci(5) == 5
 print fibonacci(6) == 8
+
+print fibonacci(-1) == None
+print fibonacci(-245) == None
