@@ -1,9 +1,15 @@
 import sys
 
 
+def is_even(x):
+    if x % 2 == 0:
+        return True
+    return False
+
+
 def any_even(list):
     for x in list:
-        if x % 2 == 0:
+        if is_even(x):
             return True
     return False
 
@@ -15,7 +21,7 @@ print any_even((1, 2, 3, 4)) == True
 
 def all_even(list):
     for x in list:
-        if x % 2 != 0:
+        if not (is_even(x)):
             return False
     return True
 
@@ -29,7 +35,7 @@ print all_even((4, 16, 40, 120, 2000)) == True
 def count_even(list):
     total = 0
     for x in list:
-        if x % 2 == 0:
+        if is_even(x):
             total = total + 1
     return total
 
@@ -41,7 +47,7 @@ print count_even((9, 11, 13)) == 0
 
 def no_even(list):
     for x in list:
-        if x % 2 == 0:
+        if is_even(x):
             return False
     return True
 
@@ -57,7 +63,7 @@ print no_even([]) == True
 def max_even(list):
     max_num = None
     for x in list:
-        if x % 2 == 0:
+        if is_even(x):
             if x > max_num:
                 max_num = x
     return max_num
@@ -75,7 +81,7 @@ print max_even((-2, -4, -8)) == -2
 def min_even(list):
     min_num = sys.maxint
     for x in list:
-        if x % 2 == 0:
+        if is_even(x):
             if x < min_num:
                 min_num = x
 
