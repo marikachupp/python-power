@@ -1,4 +1,5 @@
 from learning_vectors import Vector
+from physics import calc_fpos_vel
 
 
 def move_ball(ball, delta_t_sec):
@@ -7,8 +8,8 @@ def move_ball(ball, delta_t_sec):
     og_pos_x = ball.pos.x
     og_pos_y = ball.pos.y
 
-    new_pos_x = og_pos_x + vel_x * delta_t_sec
-    new_pos_y = og_pos_y + vel_y * delta_t_sec
+    new_pos_x = calc_fpos_vel(delta_t_sec, vel_x, og_pos_x)
+    new_pos_y = calc_fpos_vel(delta_t_sec, vel_y, og_pos_y)
 
     pos = Vector(new_pos_x, new_pos_y)
     vel = Vector(vel_x, vel_y)
