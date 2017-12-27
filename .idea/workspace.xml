@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1cbd6be-5f7f-4d7c-8042-9c4ac401868a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/french_broth.py" afterPath="$PROJECT_DIR$/french_broth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/physics.py" afterPath="$PROJECT_DIR$/physics.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,57 +13,69 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="false" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="basic_math.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_math.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="numberz.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/numberz.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pythagorean.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pythagorean.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="physics.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/physics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="vector_test.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vector_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="we_made_a_ball.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/we_made_a_ball.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="learning_vectors.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/learning_vectors.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="we_made_a_ball_test.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/we_made_a_ball_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#35#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delta_</find>
+      <find>.idea</find>
+      <find>idea</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>pos.</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,19 +84,30 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello_world.py" />
-        <option value="$PROJECT_DIR$/business_corgi.py" />
         <option value="$PROJECT_DIR$/numberz.py" />
         <option value="$PROJECT_DIR$/basic_math.py" />
         <option value="$PROJECT_DIR$/pythagorean.py" />
         <option value="$PROJECT_DIR$/physics.py" />
+        <option value="$PROJECT_DIR$/french_broth.py" />
+        <option value="$PROJECT_DIR$/fibbonacci.py" />
+        <option value="$PROJECT_DIR$/more numbers.py" />
+        <option value="$PROJECT_DIR$/business_corgi.py" />
+        <option value="$PROJECT_DIR$/lists.py" />
+        <option value="$PROJECT_DIR$/factorial.py" />
+        <option value="$PROJECT_DIR$/3_part_piecewise.py" />
+        <option value="$PROJECT_DIR$/collection practice.py" />
+        <option value="$PROJECT_DIR$/fibonacci.py" />
+        <option value="$PROJECT_DIR$/fibonacci_list.py" />
+        <option value="$PROJECT_DIR$/vector.py" />
+        <option value="$PROJECT_DIR$/vector_test.py" />
+        <option value="$PROJECT_DIR$/tulips.py" />
+        <option value="$PROJECT_DIR$/.idea/we_made_a_ball.py" />
+        <option value="$PROJECT_DIR$/we_made_a_ball_test.py" />
+        <option value="$PROJECT_DIR$/learning_vectors.py" />
+        <option value="$PROJECT_DIR$/we_made_a_ball.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -103,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,12 +138,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="hello_world" type="cbb8eebc:String" user="hello_world" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="form&#9;ACTION&#9;ReformatCode" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Custom" />
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RunDashboard">
@@ -135,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.physics">
+  <component name="RunManager" selected="Python.we_made_a_ball_test">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +234,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration name="basic_math" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learning_vectors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -212,12 +246,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_world" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_vectors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="business_corgi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tulips" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -229,12 +263,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_world" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/business_corgi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tulips.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="numberz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="vector_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -246,12 +280,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_world" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numberz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vector_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="physics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="we_made_a_ball" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,12 +297,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_world" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/physics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/we_made_a_ball.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="pythagorean" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="we_made_a_ball_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -280,25 +314,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_world" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythagorean.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/we_made_a_ball_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.business_corgi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.numberz" />
-      <item index="2" class="java.lang.String" itemvalue="Python.basic_math" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pythagorean" />
-      <item index="4" class="java.lang.String" itemvalue="Python.physics" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tulips" />
+      <item index="1" class="java.lang.String" itemvalue="Python.vector_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.learning_vectors" />
+      <item index="3" class="java.lang.String" itemvalue="Python.we_made_a_ball_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.we_made_a_ball" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.physics" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pythagorean" />
-        <item index="2" class="java.lang.String" itemvalue="Python.basic_math" />
-        <item index="3" class="java.lang.String" itemvalue="Python.numberz" />
-        <item index="4" class="java.lang.String" itemvalue="Python.business_corgi" />
+        <item index="0" class="java.lang.String" itemvalue="Python.we_made_a_ball_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.we_made_a_ball" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tulips" />
+        <item index="3" class="java.lang.String" itemvalue="Python.learning_vectors" />
+        <item index="4" class="java.lang.String" itemvalue="Python.vector_test" />
       </list>
     </recent_temporary>
   </component>
@@ -323,31 +357,212 @@
       <option name="project" value="LOCAL" />
       <updated>1501451165087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added gitignore">
+      <created>1504557876979</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504557876979</updated>
+    </task>
+    <task id="LOCAL-00003" summary="defined the pythagoren theorum function as a refresher. creating and assigning values to variables. making sure all of the variables needed for the function are present. &quot;test cases&quot; where we test the function based on the expected output for the given inputs.">
+      <created>1504563018836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504563018836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="took each kinematic equation and identified the variables needed to complete them. in the case of velocity, two variables needed were final position and initial position. because those two variables are required to find the difference in position, we consolidated the change in position into the single variable: delta. Conducted multiple test cases for all of our equations.">
+      <created>1504563653629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504563653629</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Identified the importance of what you name your variables/functions. functions - verbs, variables- nouns. Changed the names of the kinematic functions so they are as straight forward as possible. ie: velocity -&gt; calc_vel_pos (calculate velocity based on position) and final velocity -&gt; calc_vel_acc (calculate velocity based on acceleration) These names will make it much easier once we start using the functions in different contexts.">
+      <created>1504564879909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1504564879909</updated>
+    </task>
+    <task id="LOCAL-00006" summary="wrote a function to calculate position based on acceleration, using the functions we previously wrote. Incorporated initial velocity and initial position as optional parameters! it was wicked!">
+      <created>1504569930341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1504569930341</updated>
+    </task>
+    <task id="LOCAL-00007" summary="learned about if and else statements. defined two functions and put them into a piecewise function. we were able to write a piecewise function using booleans to restrict the input of x. The piecewise function we wrote accounted for all possible values of x, so then the else statement was introduced which eliminated the need for a restriction on the second function, because else accounts for whatever values were not accounted for in the first function.">
+      <created>1507170829007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507170829007</updated>
+    </task>
+    <task id="LOCAL-00008" summary="practiced independently writing a piecewise function, this time with 3 functions. this time, there were x values that were not accounted for so i used the else statment to define those values i did not account for, as opposed to last time when we used the else statement as a replacement for a function restriction that already existed which accounted for all other values within that function. because they were not accounted for, i used &quot;None&quot; as the return for the else statement because the unaccounted for values if plugged in would be undefined. 'None' represents undefined.">
+      <created>1507498719865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1507498719866</updated>
+    </task>
+    <task id="LOCAL-00009" summary="given: the fibonacci sequence does not apply to negative numbers&#10;used knowledge of piecewise functions to write a function that would output fibonacci values. due to the nature of the sequence, a recursive function was introduced. the rule of the sequence requires the knowledge of two different values, therefore we have to start by identifying two values. because zero and one are the only numbers that cant exactly follow the rule(because being the first two numbers there simply are not two values before them that you would need to yield the output) zero and one. so we created two functions, one of which outputs 0 when x = 0, and 1 when x = 1. now the recursive function. this was really hard for me to wrap my head around because it really doesnt make sense until it's completely written. in writing the return for the fibonacci function i had to use the fibonacci function. which I was in the middle of writing. how can you refer to a function that doesnt exist yet? how can you tell a computer to give you a value, based on a value that you need another value to figure out? and on and on and on. Theo suggested we write test cases first, and then try to satisfy the tests instead of trying to perfect a function with the intent of the tests returning true. So i did this, for 0&lt;=x&lt;=6 and the values that i knew for a fact were the fibonacci numbers. The tests returned true but I still couldnt figure out why. I started with 6 and talked myself through the function, I said aloud what the function was doing with each number. every time the answer depended on the output from a different calculation, i worked backwards 5-4-3-2- and once i got to 2, the function would read as follows fibonacci(2) == fibonacci(2-1) + fibonacci(2-2) finally, an x input that didnt rely on any other calculation, because i'd already written what the ouputs of 0 and 1 are and thats why it works! its okay for the answer to depend on previous answers, because no matter how high you go, if you go back to the start, there are 2 given answers. so while at first i thought the function was relying on something that didnt exist, I already had established the means to evaluate for any number i wanted.">
+      <created>1508007465513</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508007465513</updated>
+    </task>
+    <task id="LOCAL-00010" summary="wrote a function that returns the sum of all numbers up to x. First, on paper, i made a table and determined a handful of values in the sequence. I found that the terms had a second common difference (of 1) and therefore knew there was a quadratic involved. I then added to each squared value whatever number was neccesary to yield the expected value I previously determined correct. I was left with the function f(x)=x^2+(f(x-1)). I consolidated x*x into a variable called x_sqr, and set the return of the function. I wrote test cases using the numbers from the table that I had calculated to be correct. Initially I added an else statement that returned 'None' because this sequence doesnt apply to negative numbers, but my tests did not return true/false. My attention was directed to the fact that its impossible to take f(None-1) and, the input would automatically be None for numbers not covered by the if statement. I changed the return to 0.">
+      <created>1508028530172</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1508028530172</updated>
+    </task>
+    <task id="LOCAL-00011" summary="I first wrote the values of the factorials of 1-5. I found that if you multiply the input by (fact(x) by the x+1 value you get the function fact(x * fact(x+1)) realizing this only applies to numbers &gt;= 0, and it doesnt apply to 1 i wrote 2 if statements, one to cover numbers &gt;= 0, and one to cover 1. then I wrote test cases for all of the values mentioned previously. i wrote an else statement because the domain can be all positive numbers. Also, because the function appeared within the function I knew it was recursive. I wrote test cases;they returned true.">
+      <created>1508183526021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508183526021</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added else statement to cover the numbers (negative numbers) that the sequence doesnt apply to.">
+      <created>1509411539153</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1509411539153</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Introduced to lists. you can type in any series of numbers to make a list. you can have lists inside of lists. the number that the term in the list is called the index, as opposed to when we were writing recursive functions and we called it the terms number. Index's work the same way european elevators work. the number of the first floor/index is not called the first floor/index but- in elevators case- the ground floor, and in the case of index's, the index 0. You can add lists together, which will create one list where the value of the 0 index of the second list, is the number directly after the final value of the first list. At any point you can make a change to the list whether it be adding an element to the list, or changing one. the method by which you add an element is called an append. you reference the index number by x[index] and then a.append(the element to add)&#10; introduced to 'for' statements. the for statement is a tool that allows you to access elements from a list, one at a time, from left to right. We used this tool to write a function that would take the sum of the elements. we defined a mutable variable, one that can be mutated/changed. we defined the total, as the total + x. Because the for statement moves from one index to another one at a time, the total is always changing. each time a new value is added, the total gets updated. Test cases.">
+      <created>1509417396986</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1509417396986</updated>
+    </task>
+    <task id="LOCAL-00014" summary="learned about tuples and dictionaries. A tuple is like a list but you cannot add, remove, or change things; Tuples are immutable. Like lists, the order of the elements does matter, and you can use for statements on tuples. We wrote a function using a tuple, that will return the quotient and remainder, given the inputs of a dividend and a divisor, respectively. We notated them as n and d, for numerator and denomenator. Initially we defined q and r as variables, so that the function would output a tuple stating the (quotient,remainder). q = n/d, and r = n%d (% is the operation that gives you the remainder). We ended up changing the function because q and r were unneccesary once we changed the return to the things that q and r were defined as initially. Dictionaries are like lists of variables. there is a 'key' which is to a 'value' as a word is to its definition. keys and values must come in pairs. we wrote the same function as before but this time using dictionaries instead of tuples but using the exact same concept.">
+      <created>1509936703660</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509936703660</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Wrote a function to determine if there are any even values in a given list. The if statement evaluates the list and if there was a number that divided evenly (determined using the module operation and a boolean x % 2 == 0) would return zero. If the list is exhasuted without any even numbers it returns false.">
+      <created>1511752026766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511752026766</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Wrote many functions that work with even numbers in lists. This requires modulo to identify even numbers, if statements to specify what to do with even numbers (or odd ones), and for statements to go through the index's of lists. I had to move many of my return statements around because sometimes multiple were neccesarry in order to not end the function before we had finished our goal. For example: all_even(list): to determine if the list has all even numbers. the for statement checks each index in the list, x % 2 != 0 (if x divided by two does not have a remainder of zero a.k.a it is odd) return false. So if the computer detects an odd number, it doesnt look at the rest because that would mean there was an odd number in the list. If it goes through all the numbers and never finds an odd one, it will never return false, the return outside the for loop (when its done going through all the #s) is true!">
+      <created>1512170675456</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1512170675456</updated>
+    </task>
+    <task id="LOCAL-00017" summary="we said x % 2 == 0 so many times we decided to just write a function that says it, and replaced each equation w the function so it was easy to access!">
+      <created>1512171042242</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1512171042243</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Wrote a function that returns a list of all of the fibonacci numbers up to the input-the maximum index number-&quot;print all the fibonacci numbers up to the tenth&quot;. We already wrote a function to find the fibonacci numbers, so we imported that function from a different file. Knowing that this requires the evaluation of the index's of a list, I wrote a for loop. (re)introduced to the range function, returns a list of numbers up to the input. Using the range function within the for loop, allows us to move through a list of #s up to the maximum inputted value- except, the range function is set for the first index to be 0 instead of 1, which is how we think of in terms of the fibsequence, that the first term is the first number- so the max number + 1 will make sure all values are included and its not off by one. Each index in the list is plugged into the fibonacci sequence, this yields the fibonacci numbers up to the max number. We wrote a variable to set that equal to &quot;value&quot;. Now how are we going to have them listed? We decided to use a list, as opposed to a tuple-tuples cannot be appended which is the goal- or a set-all values of a set have to be unique and the fibonacci sequence has two outputs of 1- to list the results. We wrote an empty list, and after the body of the loop, used the append method to add to the empty list, whatever values the for loop spits out. return the list (nacci)">
+      <created>1512614970485</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1512614970485</updated>
+    </task>
+    <task id="LOCAL-00019" summary="previously in this file we used different kinds of collections to yield the same result. Now we did the same thing but with a class. A class is not a kind of collection, but it is a way to store data. In a list you can change a value by referring to the index, and setting a new value;In a set, you can change values and append a value, but only if it maintains a collection of UNIQUE elements. Tuples are immutable and cannot be changed. Dictionaries, you define a key and a value, like a word and its definition. These all require that you know(to some extent) the order of the values, and the values themselves. When using classes on the other hand, you dont need to know any values, or the order of them.">
+      <created>1514158964028</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1514158964028</updated>
+    </task>
+    <task id="LOCAL-00020" summary="We split the file into two parts one of which contained all of the test cases. Previously, test cases were in the same file: This made it so when we imported a function to another, it brought and printed all of the test cases with it. Splitting them alleviated this problem.">
+      <created>1514159199079</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1514159199079</updated>
+    </task>
+    <task id="LOCAL-00021" summary="We split the file into two parts, one of which contained all of the test cases. Previously, test cases were in the same file: This made it so when we imported a function to another file, it brought and printed all of the test cases with it. Splitting them alleviated this problem.&#10;We were using the concept of vectors, (x, y) representing the x and y components of a vector. From our non-test case file, we imported the class that we named Vector. That imported class allowed us to assign 'properties' (in this case the properties represented the x and y components of jim and/or tom - in writing test cases, I named our vectors jim and tom) to the invisible 'self' reference. Self is invisible, its not an input. Self simply allows you to consolidate an idea. The idea here being there is going to be an x component and there is going to be a y component, but you dont have to know what those things are going to be the components of, to understand that idea. We did not have to know any values, nor the order of the values for this to work. Unlike the collections we used before, if we ask if (x,y) is equal to (y,x) it straight up wouldnt work. Because you dont need to know the values when using a class, it'll tell you if (x,y) == (y,x) because it is an idea, and because both x and y are there, it would be able to tell if theyre equal regardless of the order.">
+      <created>1514160845287</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1514160845287</updated>
+    </task>
+    <task id="LOCAL-00022" summary="The goal: find the new position of a ball that has moved position. We split the file into two parts, one of which contained all of the test cases. Again. Made a class for ball because there can be many instances of a ball: a golf ball, soccer ball, blue ball, or a bouncy ball. We chose bouncy ball. Using the simplest kinematic equation involving position that I could think of, velocity = displacement / change in time, and solved for displacement. You might be thinking, 'But Marika, you are trying to find a instantaneous position, not a change in position!' This is true. But displacement = (final position - initial position) and we can use algebra to solve for final position.&#10; velocity * change in time = displacement, so&#10; velocity * change in time = final position - initial position, so&#10; velocity * change in time + initial position = final position. Q.E.D&#10; We created a CLASS to establish the ideas of these things. We did use different names for the variables, but they represented the same thing. Using the ideas we created in the class, we wrote a function. The function returned the final position, using the equation I derived earlier. The test cases had to be written a little different than I was used to. The class has to be included in the return because the class is where the ideas were established, they would not exist without the class.">
+      <created>1514250275363</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1514250275363</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Previously, the ball's x pos and its y pos were seperate properties. This didn't change, but we consolidated the x and y positions into one property: position (we also did this with velocity). The number of inputs for the class Ball went from four to two. Now, when position is referenced, it will give you the (posx,posy) instead of having to reference both the posx, and posy to get the result.">
+      <created>1514392615335</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1514392615335</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Updated .gitignore&#10;-- Theo">
+      <created>1514392740340</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1514392740340</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26824033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.50572246" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32816902" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33941093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3319027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.11516452" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32676056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44507042" sideWeight="0.8848355" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39859155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3084507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.11516452" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32676056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44507042" sideWeight="0.8848355" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3319027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3084507" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39859155" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -365,8 +580,8 @@
                 <list>
                   <option value="0" />
                   <option value="1" />
-                  <option value="2" />
                   <option value="3" />
+                  <option value="2" />
                 </list>
               </option>
             </State>
@@ -380,18 +595,135 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="we reviewed how to define functions, write the output, use functions inside of other functions. We wrote a program that when you put in 2 values of sides of a right triangle, it will give you the hypotenuse (pythagroean theorum). We also wrote a function that calculates velocity based on displacement and time." />
-    <option name="LAST_COMMIT_MESSAGE" value="we reviewed how to define functions, write the output, use functions inside of other functions. We wrote a program that when you put in 2 values of sides of a right triangle, it will give you the hypotenuse (pythagroean theorum). We also wrote a function that calculates velocity based on displacement and time." />
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="defined the pythagoren theorum function as a refresher. creating and assigning values to variables. making sure all of the variables needed for the function are present. &quot;test cases&quot; where we test the function based on the expected output for the given inputs." />
+    <MESSAGE value="took each kinematic equation and identified the variables needed to complete them. in the case of velocity, two variables needed were final position and initial position. because those two variables are required to find the difference in position, we consolidated the change in position into the single variable: delta. Conducted multiple test cases for all of our equations." />
+    <MESSAGE value="Identified the importance of what you name your variables/functions. functions - verbs, variables- nouns. Changed the names of the kinematic functions so they are as straight forward as possible. ie: velocity -&gt; calc_vel_pos (calculate velocity based on position) and final velocity -&gt; calc_vel_acc (calculate velocity based on acceleration) These names will make it much easier once we start using the functions in different contexts." />
+    <MESSAGE value="wrote a function to calculate position based on acceleration, using the functions we previously wrote. Incorporated initial velocity and initial position as optional parameters! it was wicked!" />
+    <MESSAGE value="learned about if and else statements. defined two functions and put them into a piecewise function. we were able to write a piecewise function using booleans to restrict the input of x. The piecewise function we wrote accounted for all possible values of x, so then the else statement was introduced which eliminated the need for a restriction on the second function, because else accounts for whatever values were not accounted for in the first function." />
+    <MESSAGE value="practiced independently writing a piecewise function, this time with 3 functions. this time, there were x values that were not accounted for so i used the else statment to define those values i did not account for, as opposed to last time when we used the else statement as a replacement for a function restriction that already existed which accounted for all other values within that function. because they were not accounted for, i used &quot;None&quot; as the return for the else statement because the unaccounted for values if plugged in would be undefined. 'None' represents undefined." />
+    <MESSAGE value="given: the fibonacci sequence does not apply to negative numbers&#10;used knowledge of piecewise functions to write a function that would output fibonacci values. due to the nature of the sequence, a recursive function was introduced. the rule of the sequence requires the knowledge of two different values, therefore we have to start by identifying two values. because zero and one are the only numbers that cant exactly follow the rule(because being the first two numbers there simply are not two values before them that you would need to yield the output) zero and one. so we created two functions, one of which outputs 0 when x = 0, and 1 when x = 1. now the recursive function. this was really hard for me to wrap my head around because it really doesnt make sense until it's completely written. in writing the return for the fibonacci function i had to use the fibonacci function. which I was in the middle of writing. how can you refer to a function that doesnt exist yet? how can you tell a computer to give you a value, based on a value that you need another value to figure out? and on and on and on. Theo suggested we write test cases first, and then try to satisfy the tests instead of trying to perfect a function with the intent of the tests returning true. So i did this, for 0&lt;=x&lt;=6 and the values that i knew for a fact were the fibonacci numbers. The tests returned true but I still couldnt figure out why. I started with 6 and talked myself through the function, I said aloud what the function was doing with each number. every time the answer depended on the output from a different calculation, i worked backwards 5-4-3-2- and once i got to 2, the function would read as follows fibonacci(2) == fibonacci(2-1) + fibonacci(2-2) finally, an x input that didnt rely on any other calculation, because i'd already written what the ouputs of 0 and 1 are and thats why it works! its okay for the answer to depend on previous answers, because no matter how high you go, if you go back to the start, there are 2 given answers. so while at first i thought the function was relying on something that didnt exist, I already had established the means to evaluate for any number i wanted." />
+    <MESSAGE value="wrote a function that returns the sum of all numbers up to x. First, on paper, i made a table and determined a handful of values in the sequence. I found that the terms had a second common difference (of 1) and therefore knew there was a quadratic involved. I then added to each squared value whatever number was neccesary to yield the expected value I previously determined correct. I was left with the function f(x)=x^2+(f(x-1)). I consolidated x*x into a variable called x_sqr, and set the return of the function. I wrote test cases using the numbers from the table that I had calculated to be correct. Initially I added an else statement that returned 'None' because this sequence doesnt apply to negative numbers, but my tests did not return true/false. My attention was directed to the fact that its impossible to take f(None-1) and, the input would automatically be None for numbers not covered by the if statement. I changed the return to 0." />
+    <MESSAGE value="I first wrote the values of the factorials of 1-5. I found that if you multiply the input by (fact(x) by the x+1 value you get the function fact(x * fact(x+1)) realizing this only applies to numbers &gt;= 0, and it doesnt apply to 1 i wrote 2 if statements, one to cover numbers &gt;= 0, and one to cover 1. then I wrote test cases for all of the values mentioned previously. i wrote an else statement because the domain can be all positive numbers. Also, because the function appeared within the function I knew it was recursive. I wrote test cases;they returned true." />
+    <MESSAGE value="added else statement to cover the numbers (negative numbers) that the sequence doesnt apply to." />
+    <MESSAGE value="Introduced to lists. you can type in any series of numbers to make a list. you can have lists inside of lists. the number that the term in the list is called the index, as opposed to when we were writing recursive functions and we called it the terms number. Index's work the same way european elevators work. the number of the first floor/index is not called the first floor/index but- in elevators case- the ground floor, and in the case of index's, the index 0. You can add lists together, which will create one list where the value of the 0 index of the second list, is the number directly after the final value of the first list. At any point you can make a change to the list whether it be adding an element to the list, or changing one. the method by which you add an element is called an append. you reference the index number by x[index] and then a.append(the element to add)&#10; introduced to 'for' statements. the for statement is a tool that allows you to access elements from a list, one at a time, from left to right. We used this tool to write a function that would take the sum of the elements. we defined a mutable variable, one that can be mutated/changed. we defined the total, as the total + x. Because the for statement moves from one index to another one at a time, the total is always changing. each time a new value is added, the total gets updated. Test cases." />
+    <MESSAGE value="learned about tuples and dictionaries. A tuple is like a list but you cannot add, remove, or change things; Tuples are immutable. Like lists, the order of the elements does matter, and you can use for statements on tuples. We wrote a function using a tuple, that will return the quotient and remainder, given the inputs of a dividend and a divisor, respectively. We notated them as n and d, for numerator and denomenator. Initially we defined q and r as variables, so that the function would output a tuple stating the (quotient,remainder). q = n/d, and r = n%d (% is the operation that gives you the remainder). We ended up changing the function because q and r were unneccesary once we changed the return to the things that q and r were defined as initially. Dictionaries are like lists of variables. there is a 'key' which is to a 'value' as a word is to its definition. keys and values must come in pairs. we wrote the same function as before but this time using dictionaries instead of tuples but using the exact same concept." />
+    <MESSAGE value="Wrote a function to determine if there are any even values in a given list. The if statement evaluates the list and if there was a number that divided evenly (determined using the module operation and a boolean x % 2 == 0) would return zero. If the list is exhasuted without any even numbers it returns false." />
+    <MESSAGE value="Wrote many functions that work with even numbers in lists. This requires modulo to identify even numbers, if statements to specify what to do with even numbers (or odd ones), and for statements to go through the index's of lists. I had to move many of my return statements around because sometimes multiple were neccesarry in order to not end the function before we had finished our goal. For example: all_even(list): to determine if the list has all even numbers. the for statement checks each index in the list, x % 2 != 0 (if x divided by two does not have a remainder of zero a.k.a it is odd) return false. So if the computer detects an odd number, it doesnt look at the rest because that would mean there was an odd number in the list. If it goes through all the numbers and never finds an odd one, it will never return false, the return outside the for loop (when its done going through all the #s) is true!" />
+    <MESSAGE value="we said x % 2 == 0 so many times we decided to just write a function that says it, and replaced each equation w the function so it was easy to access!" />
+    <MESSAGE value="Wrote a function that returns a list of all of the fibonacci numbers up to the input-the maximum index number-&quot;print all the fibonacci numbers up to the tenth&quot;. We already wrote a function to find the fibonacci numbers, so we imported that function from a different file. Knowing that this requires the evaluation of the index's of a list, I wrote a for loop. (re)introduced to the range function, returns a list of numbers up to the input. Using the range function within the for loop, allows us to move through a list of #s up to the maximum inputted value- except, the range function is set for the first index to be 0 instead of 1, which is how we think of in terms of the fibsequence, that the first term is the first number- so the max number + 1 will make sure all values are included and its not off by one. Each index in the list is plugged into the fibonacci sequence, this yields the fibonacci numbers up to the max number. We wrote a variable to set that equal to &quot;value&quot;. Now how are we going to have them listed? We decided to use a list, as opposed to a tuple-tuples cannot be appended which is the goal- or a set-all values of a set have to be unique and the fibonacci sequence has two outputs of 1- to list the results. We wrote an empty list, and after the body of the loop, used the append method to add to the empty list, whatever values the for loop spits out. return the list (nacci)" />
+    <MESSAGE value="previously in this file we used different kinds of collections to yield the same result. Now we did the same thing but with a class. A class is not a kind of collection, but it is a way to store data. In a list you can change a value by referring to the index, and setting a new value;In a set, you can change values and append a value, but only if it maintains a collection of UNIQUE elements. Tuples are immutable and cannot be changed. Dictionaries, you define a key and a value, like a word and its definition. These all require that you know(to some extent) the order of the values, and the values themselves. When using classes on the other hand, you dont need to know any values, or the order of them." />
+    <MESSAGE value="We split the file into two parts one of which contained all of the test cases. Previously, test cases were in the same file: This made it so when we imported a function to another, it brought and printed all of the test cases with it. Splitting them alleviated this problem." />
+    <MESSAGE value="We split the file into two parts, one of which contained all of the test cases. Previously, test cases were in the same file: This made it so when we imported a function to another file, it brought and printed all of the test cases with it. Splitting them alleviated this problem.&#10;We were using the concept of vectors, (x, y) representing the x and y components of a vector. From our non-test case file, we imported the class that we named Vector. That imported class allowed us to assign 'properties' (in this case the properties represented the x and y components of jim and/or tom - in writing test cases, I named our vectors jim and tom) to the invisible 'self' reference. Self is invisible, its not an input. Self simply allows you to consolidate an idea. The idea here being there is going to be an x component and there is going to be a y component, but you dont have to know what those things are going to be the components of, to understand that idea. We did not have to know any values, nor the order of the values for this to work. Unlike the collections we used before, if we ask if (x,y) is equal to (y,x) it straight up wouldnt work. Because you dont need to know the values when using a class, it'll tell you if (x,y) == (y,x) because it is an idea, and because both x and y are there, it would be able to tell if theyre equal regardless of the order." />
+    <MESSAGE value="The goal: find the new position of a ball that has moved position. We split the file into two parts, one of which contained all of the test cases. Again. Made a class for ball because there can be many instances of a ball: a golf ball, soccer ball, blue ball, or a bouncy ball. We chose bouncy ball. Using the simplest kinematic equation involving position that I could think of, velocity = displacement / change in time, and solved for displacement. You might be thinking, 'But Marika, you are trying to find a instantaneous position, not a change in position!' This is true. But displacement = (final position - initial position) and we can use algebra to solve for final position.&#10; velocity * change in time = displacement, so&#10; velocity * change in time = final position - initial position, so&#10; velocity * change in time + initial position = final position. Q.E.D&#10; We created a CLASS to establish the ideas of these things. We did use different names for the variables, but they represented the same thing. Using the ideas we created in the class, we wrote a function. The function returned the final position, using the equation I derived earlier. The test cases had to be written a little different than I was used to. The class has to be included in the return because the class is where the ideas were established, they would not exist without the class." />
+    <MESSAGE value="Previously, the ball's x pos and its y pos were seperate properties. This didn't change, but we consolidated the x and y positions into one property: position (we also did this with velocity). The number of inputs for the class Ball went from four to two. Now, when position is referenced, it will give you the (posx,posy) instead of having to reference both the posx, and posy to get the result." />
+    <MESSAGE value="Updated .gitignore&#10;-- Theo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitignore&#10;-- Theo" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/physics.py</url>
+          <line>40</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tulips.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/physics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/french_broth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business_corgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/french_broth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business_corgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/french_broth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/french_broth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic_math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,7 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -455,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -463,7 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -471,7 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -495,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -503,7 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -519,7 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,7 +847,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythagorean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/__builtin__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="128" column="33" lean-forward="true" selection-start-line="128" selection-start-column="33" selection-end-line="128" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/more numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -538,33 +886,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/french_broth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/business_corgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/numberz.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="75">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="9" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonacci_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_part_piecewise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_math.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="495">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tulips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/physics.py">
+    <entry file="file://$PROJECT_DIR$/.idea/we_made_a_ball.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vector_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/we_made_a_ball.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_vectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -572,16 +999,18 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythagorean.py">
+    <entry file="file://$PROJECT_DIR$/we_made_a_ball_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
