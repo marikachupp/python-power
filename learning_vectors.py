@@ -1,6 +1,6 @@
 class Vector:
-    # make jim.x and jim.y without explicitly stating them
 
+    # make jim.x and jim.y without explicitly stating them
     def __init__(self, x, y):
         self.x = x
         self.y = y

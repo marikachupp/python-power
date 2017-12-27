@@ -1,9 +1,10 @@
+from learning_vectors import Vector
 from we_made_a_ball import Ball, move_ball
 
-bouncy = Ball(4, 9, 3, -2)
+bouncy = Ball(pos=Vector(4, 9), vel=Vector(3, -2))
 
-print "Pos:", (bouncy.delta_x, bouncy.delta_y), "Vel:", (bouncy.vel_x, bouncy.vel_y)
+print "Pos:", (bouncy.pos.x, bouncy.pos.y), "Vel:", (bouncy.vel.x, bouncy.vel.y)
 
 updated_bouncy = move_ball(bouncy, 1)
 
-print "new pos:", (updated_bouncy.delta_x, updated_bouncy.delta_y), "Vel:", (updated_bouncy.vel_x, updated_bouncy.vel_y)
+print "new pos:", (updated_bouncy.pos.x, updated_bouncy.pos.y), "Vel:", (updated_bouncy.vel.x, updated_bouncy.vel.y)
