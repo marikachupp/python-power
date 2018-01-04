@@ -14,10 +14,11 @@ def move_ball(ball, delta_t_sec):
     pos = Vector(new_pos_x, new_pos_y)
     vel = Vector(vel_x, vel_y)
 
-    return Ball(pos, vel)
+    return Ball(pos, vel, ball.rad)
 
 
 class Ball:
-    def __init__(self, pos, vel):
+    def __init__(self, pos, vel, rad):
         self.pos = pos
         self.vel = vel
+        self.rad = rad
