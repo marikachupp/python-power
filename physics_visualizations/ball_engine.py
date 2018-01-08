@@ -23,12 +23,12 @@ def calculate_new_ball(ball, delta_t_ms, width, height):
         vel_x = updated_ball.vel.x * -1
         vel_y = updated_ball.vel.y
         vel = Vector(vel_x, vel_y)
-        return Ball(updated_ball.pos, vel, updated_ball.rad)
+        return updated_ball.with_vel(vel)
 
     if (0 >= new_pos_y) or (new_pos_y + diameter >= height):
         vel_x = updated_ball.vel.x
         vel_y = updated_ball.vel.y * -1
         vel = Vector(vel_x, vel_y)
-        return Ball(updated_ball.pos, vel, updated_ball.rad)
+        return updated_ball.with_vel(vel)
 
     return updated_ball
