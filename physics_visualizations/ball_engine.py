@@ -5,7 +5,7 @@ BALL_RADIUS = 50
 
 
 def initialize_ball():
-    return Ball(pos=Vector(0, 0), vel=Vector(100, 60), rad=BALL_RADIUS)
+    return Ball(pos=Vector(0, 0), vel=Vector(150, 30), rad=BALL_RADIUS)
 
 
 # returns instance of Ball
@@ -19,8 +19,16 @@ def calculate_new_ball(ball, delta_t_ms, width, height):
     diameter = (2 * ball.rad)
     print new_pos_x, new_pos_y, diameter
 
-    if (0 <= new_pos_y) and (new_pos_y + diameter <= height) \
-            and (0 <= new_pos_x) and (new_pos_x + diameter <= width):
-        return updated_ball
-    else:
-        return ball
+    if (0 >= new_pos_x) or (new_pos_x + diameter >= width):
+        vel_x = updated_ball.vel.x * -1
+        vel_y = updated_ball.vel.y
+        vel = Vector(vel_x, vel_y)
+        return Ball(updated_ball.pos, vel, updated_ball.rad)
+
+    if (0 >= new_pos_y) or (new_pos_y + diameter >= height):
+        vel_x = updated_ball.vel.x
+        vel_y = updated_ball.vel.y * -1
+        vel = Vector(vel_x, vel_y)
+        return Ball(updated_ball.pos, vel, updated_ball.rad)
+
+    return updated_ball

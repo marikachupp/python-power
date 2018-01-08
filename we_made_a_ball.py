@@ -22,3 +22,5 @@ class Ball:
         self.pos = pos
         self.vel = vel
         self.rad = rad
+
+
